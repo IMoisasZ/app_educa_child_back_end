@@ -2,8 +2,6 @@ import UserRepository from "../repository/user.repository.js"
 
 async function createUser(user) {
   try {
-    user.user_id_firebase = 1000
-    console.debug("user_fire", user.user_id_firebase)
     if (user.password === user.confirmPassword) {
       const user_return = await UserRepository.createUser(user)
       user_return.user_id_firebase = undefined

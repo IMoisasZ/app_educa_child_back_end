@@ -39,7 +39,7 @@ const EventData = DBCONNECTION.define(
   { tableName: "event_data" }
 )
 
-EventData.sync()
+EventData.sync({ alter: true })
 
 EventData.belongsTo(ChildModel, { foreignKey: "child_id" })
 EventData.belongsTo(EventModel, { foreignKey: "event_id" })

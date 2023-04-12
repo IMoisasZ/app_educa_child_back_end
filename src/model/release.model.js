@@ -49,11 +49,7 @@ const Release = DBCONNECTON.define(
 
 Release.sync()
 
-Release.belongsTo(
-  ChildModel,
-  { foreignKey: "child_id" },
-  { onDelete: "cascade" }
-)
-Release.belongsTo(EventModel, { foreignKey: "event_id", onDelete: "cascade" })
+Release.belongsTo(ChildModel, { foreignKey: "child_id" })
+Release.belongsTo(EventModel, { foreignKey: "event_id" })
 
 export default Release
