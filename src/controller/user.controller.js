@@ -35,6 +35,27 @@ async function updateUser(req, res, next) {
   }
 }
 
+async function updatePassword(req, res, next) {
+  try {
+    const { id, password, confirmPassword } = req.body
+    console.log(req.body)
+    if (!id) {
+      res.json({ msg: "Id do usuário não informado!" })
+    }
+    if (!password) {
+      res.status(400).json({ msg: "Senha não informada!" })
+    }
+    if (!confirmPassword) {
+      res.status(400).json({ msg: "Confirmação da senha não informada!" })
+    }
+    await UserService.updatePassword(id, password, confirmPassword)
+    res.status(200).json({ msg: "Senha alterada com sucesso!" })
+    logger.info(`PUT - /user - ${JSON.stringify(req.body)}`)
+  } catch (error) {
+    next(error)
+  }
+}
+
 async function getUsers(req, res, next) {
   try {
     res.send(await UserService.getUsers())
@@ -55,9 +76,8 @@ async function getUser(req, res, next) {
 
 async function getUserByEmail(req, res, next) {
   try {
-    console.log(req.params.email)
-    res.send(await UserService.getUserByEmail(req.params.query.email))
-    logger.info(`GET - /user?email=${req.query.email}`)
+    res.send(await UserService.getUserByEmail(req.query.email))
+    logger.info(`GET - /user/email/user_email?email=${req.query.email}`)
   } catch (error) {
     next(error)
   }
@@ -66,6 +86,7 @@ async function getUserByEmail(req, res, next) {
 export default {
   createUser,
   updateUser,
+  updatePassword,
   getUsers,
   getUser,
   getUserByEmail,

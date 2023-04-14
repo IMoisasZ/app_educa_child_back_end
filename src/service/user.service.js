@@ -16,6 +16,17 @@ async function updateUser(user) {
   return await UserRepository.updateUser(user)
 }
 
+async function updatePassword(id, password, confirmPassword) {
+  try {
+    if (password !== confirmPassword) {
+      new Error("As senhas não conferem")
+    }
+    return await UserRepository.updatePassword(id, password)
+  } catch (error) {
+    throw error
+  }
+}
+
 async function getUsers() {
   return await UserRepository.getUsers()
 }
@@ -31,6 +42,7 @@ async function getUserByEmail(email) {
 export default {
   createUser,
   updateUser,
+  updatePassword,
   getUsers,
   getUser,
   getUserByEmail,

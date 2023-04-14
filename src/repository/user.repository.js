@@ -18,6 +18,24 @@ async function updateUser(user) {
   return await getUser(user.id)
 }
 
+async function updatePassword(id, password) {
+  try {
+    await UserModel.update(
+      {
+        password,
+      },
+      {
+        where: {
+          id,
+        },
+      }
+    )
+    return getUser(id)
+  } catch (error) {
+    throw error
+  }
+}
+
 async function getUsers() {
   return await UserModel.findAll()
 }
@@ -28,13 +46,16 @@ async function getUser(id) {
 
 async function getUserByEmail(email) {
   return await UserModel.findOne({
-    email,
+    where: {
+      email,
+    },
   })
 }
 
 export default {
   createUser,
   updateUser,
+  updatePassword,
   getUsers,
   getUser,
   getUserByEmail,
