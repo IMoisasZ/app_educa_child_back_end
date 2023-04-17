@@ -3,6 +3,20 @@ import ChildService from "../service/child.service.js"
 async function createChild(req, res, next) {
   try {
     const child = req.body
+    if (!child.name) {
+      return res.status(400).json({ msg: "O nome deve ser informado!" })
+    }
+    if (!child.lastName) {
+      return res.status(400).json({ msg: "O sobrenome deve ser informado!" })
+    }
+    if (!child.gender_id) {
+      return res.status(400).json({ msg: "O sexo deve ser informado!" })
+    }
+    if (!child.birthday) {
+      return res
+        .status(400)
+        .json({ msg: "A data de aniversário deve ser informada!" })
+    }
     res.send(await ChildService.createChild(child))
     logger.info(`POST - /child - ${JSON.stringify(child)}`)
   } catch (error) {

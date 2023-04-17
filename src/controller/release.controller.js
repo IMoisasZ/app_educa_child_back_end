@@ -3,6 +3,28 @@ import ReleaseService from "../service/release.service.js"
 async function createRelease(req, res, next) {
   try {
     const release = req.body
+    if (!release.type) {
+      return res.status(400).json({ msg: "Um tipo deve ser selecionado!" })
+    }
+    if (!release.child_id) {
+      return res.status(400).json({ msg: "Uma criança deve ser selecionada!" })
+    }
+    if (!release.event_id) {
+      return res.status(400).json({ msg: "Um evento deve ser selecionado!" })
+    }
+    if (!release.date) {
+      return res.status(400).json({ msg: "Uma data deve ser informada!" })
+    }
+    if (!release.description) {
+      return res
+        .status(400)
+        .json({ msg: "Uma descrição tipo deve ser informada!" })
+    }
+    if (!release.type) {
+      return res
+        .status(400)
+        .json({ msg: "A quantidade de pontos deve ser informada!" })
+    }
     res.send(await ReleaseService.createRelease(release))
     logger.info(`POST - /release - ${JSON.stringify(release)}`)
   } catch (error) {

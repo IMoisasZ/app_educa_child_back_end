@@ -33263,3 +33263,677 @@ notNull Violation: child.lastName cannot be null
 2023-04-14T03:44:30.282Z [app-mizp-educa] info GET - /user/email/user_email?email=pri283@hotmail.com
 2023-04-14T03:44:30.446Z [app-mizp-educa] info GET - /child/:1 - ALL CHILDREN
 2023-04-14T03:44:30.530Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T01:14:54.661Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:14:54.962Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T01:14:55.089Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T01:28:39.832Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:28:51.686Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:29:09.007Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:29:37.162Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:29:58.279Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:30:17.744Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:30:25.242Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:31:27.401Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:32:48.575Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:34:14.764Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:35:00.965Z [app-mizp-educa] info GET - /user/email/user_email?email=[object Object]
+2023-04-16T01:35:37.008Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:36:25.842Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:38:01.396Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:38:10.955Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:38:47.333Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:39:09.366Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:40:06.643Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:40:13.256Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:40:31.052Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:40:37.883Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:42:01.221Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:42:39.183Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:46:03.475Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:47:41.509Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:55:12.770Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T01:55:36.182Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:00:59.814Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:06:27.681Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:08:29.865Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:10:16.346Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:10:16.556Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T02:10:16.691Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T02:12:49.462Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:27:40.495Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:27:40.642Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T02:27:40.721Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T02:34:30.381Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:36:00.512Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:37:02.614Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:37:53.233Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:38:21.742Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:39:45.487Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:40:23.635Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:40:50.037Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:41:22.551Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08
+2023-04-16T02:41:56.617Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08
+2023-04-16T02:42:03.855Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08
+2023-04-16T02:42:09.776Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08
+2023-04-16T02:42:44.494Z [app-mizp-educa] info GET - /user/email/user_email?email=mo
+2023-04-16T02:42:48.451Z [app-mizp-educa] info GET - /user/email/user_email?email=mo
+2023-04-16T02:43:01.839Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:44:55.925Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:45:10.710Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:45:27.444Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:45:55.128Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:46:29.481Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:47:13.575Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:47:20.024Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:51:18.875Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:51:28.992Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:51:37.687Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.co
+2023-04-16T02:51:43.024Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:52:19.313Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:53:10.778Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:54:49.466Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T02:54:49.660Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T02:54:49.736Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T02:57:32.801Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Ivy","lastName":"Santos","nickName":"Ivyzinha","gender_id":2,"birthday":""}
+2023-04-16T02:57:36.365Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T02:59:11.780Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T02:59:28.798Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:04:19.056Z [app-mizp-educa] error POST  - notNull Violation: child.name cannot be null,
+notNull Violation: child.lastName cannot be null
+2023-04-16T03:04:44.404Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Zoe","lastName":"Santos","nickName":"Zozoe","gender_id":2,"birthday":""}
+2023-04-16T03:04:49.713Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:06:20.976Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Noha","lastName":"Santos","nickName":"No","gender_id":2,"birthday":""}
+2023-04-16T03:06:24.772Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:26:53.925Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:26:54.183Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:26:54.275Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:31:46.622Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:31:46.872Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:31:46.985Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:35:51.078Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:35:51.253Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:35:51.338Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:39:49.856Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:39:50.076Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:39:50.174Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:44:40.279Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:44:40.486Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:44:40.578Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:47:56.883Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T03:47:57.077Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:47:57.171Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T03:54:07.188Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Isadora","lastName":"Pain","gender_id":2,"birthday":"2017/08/30"}
+2023-04-16T03:54:13.551Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:55:10.216Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Luísa","lastName":"Santos","nickName":"Luh","gender_id":2,"birthday":"2015/03/10"}
+2023-04-16T03:55:13.804Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:56:52.110Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T03:58:14.704Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:00:19.163Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:02:56.011Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:04:34.780Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T04:04:34.984Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:04:35.096Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T04:05:30.002Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T04:05:30.184Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:05:30.304Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T04:05:58.382Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T04:05:58.539Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:05:58.622Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T04:06:37.229Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T04:06:37.438Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:06:37.524Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T04:08:15.331Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T04:08:15.585Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:08:15.686Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T04:08:24.850Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T04:14:12.143Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:04:41.282Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:04:41.582Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:04:41.729Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:05:50.273Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:05:50.512Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:05:50.638Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:06:32.720Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:06:32.992Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:06:33.011Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:07:12.728Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:07:13.010Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:07:13.137Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:07:57.671Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:07:57.895Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:07:58.018Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:43:27.994Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:43:28.327Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:43:28.455Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T20:48:16.239Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T20:48:16.575Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T20:48:16.694Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:03:35.949Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:04:56.721Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:05:04.567Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:06:36.516Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:06:54.067Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:07:24.726Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:07:29.596Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:07:33.360Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:10:49.911Z [app-mizp-educa] info PATCH - /child - {"id":1,"user_id":2,"name":"Ivy","lastName":"Santos","nickName":"Ivyzinha","gender_id":2,"birthday":"2017/06/15"}
+2023-04-16T21:10:54.351Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:12:23.133Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:12:35.176Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:12:54.974Z [app-mizp-educa] info PATCH - /child - {"id":2,"user_id":2,"name":"Zoe","lastName":"Santos","nickName":"Zozoe","gender_id":2,"birthday":"undefined/undefined/"}
+2023-04-16T21:12:58.490Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:13:10.758Z [app-mizp-educa] info PATCH - /child - {"id":3,"user_id":2,"name":"Noha","lastName":"Santos","nickName":"No","gender_id":2,"birthday":"undefined/undefined/"}
+2023-04-16T21:13:13.851Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:14:35.375Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:15:29.415Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:15:29.649Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:15:29.760Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:16:21.424Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:16:21.610Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:16:21.700Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:16:58.463Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:16:58.657Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:16:58.746Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:18:01.740Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:18:01.943Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:18:02.042Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:18:32.315Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:20:01.994Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:20:02.200Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:20:02.296Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:20:07.538Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:21:19.473Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:21:19.688Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:21:19.776Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:21:24.201Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:21:39.496Z [app-mizp-educa] info PATCH - /child - {"id":3,"user_id":2,"name":"Noha","lastName":"Santos","nickName":"No","gender_id":2,"birthday":"undefined/undefined/"}
+2023-04-16T21:21:43.331Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:23:03.197Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:23:48.249Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:28:45.609Z [app-mizp-educa] info PATCH - /child - {"id":3,"user_id":2,"name":"Noha","lastName":"Santos","nickName":"No","gender_id":1,"birthday":"2024/11/14"}
+2023-04-16T21:28:49.643Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:33:37.588Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:33:54.442Z [app-mizp-educa] info PATCH - /child - {"id":1,"user_id":2,"name":"Ivy","lastName":"Santos","nickName":"Ivyzinha","gender_id":2,"birthday":"2017/06/15"}
+2023-04-16T21:34:33.062Z [app-mizp-educa] info POST - /child - {"user_id":2,"name":"Ivy","lastName":"Santos","nickName":"Ivyzinha","gender_id":2,"birthday":"2017/06/15"}
+2023-04-16T21:34:45.105Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:34:50.654Z [app-mizp-educa] info DELETE - /child/6
+2023-04-16T21:34:52.672Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:35:10.825Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:35:42.455Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:36:12.162Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:36:31.710Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:36:51.184Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:37:08.151Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:38:02.066Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:38:21.123Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:38:50.071Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:39:20.966Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:39:42.418Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:40:45.281Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:40:45.442Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:40:45.541Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:41:23.531Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:41:23.720Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:41:23.847Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:42:17.339Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:42:17.520Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:42:17.608Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:43:39.604Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:43:39.781Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:43:39.874Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:46:53.139Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:46:53.347Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:46:53.441Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:47:43.236Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T21:47:43.433Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:47:43.517Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T21:51:46.764Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:53:29.959Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:54:11.544Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:55:15.229Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:55:31.215Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:56:01.546Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T21:56:43.888Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:01:32.485Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-16T22:02:53.084Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T22:02:53.273Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:02:53.355Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T22:03:01.895Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-16T22:11:54.675Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T22:11:54.843Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:11:54.935Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T22:14:19.209Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T22:14:19.382Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:14:19.469Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T22:16:06.902Z [app-mizp-educa] info POST - /event - {"user_id":{"id":2,"user_id_firebase":"mi6UaciIu7fpzPZ3tqrpn9BkCYn2","name":"Moises","lastName":"Santos","nickName":"Moisas","kinship_id":1,"email":"mopri08@gmail.com","createdAt":"2023-04-13T02:11:03.000Z","updatedAt":"2023-04-13T02:11:03.000Z"},"typeEvent_id":1,"event":"Aniversário do Matheus","description":"Festa de aniversário do Matheus","date":"02/05/2023"}
+2023-04-16T22:16:11.663Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-16T22:18:34.289Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-16T22:18:34.441Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:18:34.513Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-16T22:18:39.492Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:18:53.541Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-16T22:18:59.631Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-16T22:19:13.692Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-16T22:19:19.808Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:19:19.860Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-16T22:19:21.610Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:19:21.658Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-16T22:19:22.967Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-16T22:19:23.024Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T01:39:10.767Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T01:39:11.083Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:39:11.210Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:41:44.480Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T01:41:44.816Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:41:44.942Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:47:46.769Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T01:49:00.856Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T01:49:18.867Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:49:18.876Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:50:13.376Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:51:10.228Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:51:10.230Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:51:25.273Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:51:25.275Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:51:43.759Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:51:43.769Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:52:49.376Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:52:49.378Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:53:03.715Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:53:03.720Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:55:10.230Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:55:10.232Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:55:58.040Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:55:58.042Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:57:01.003Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:57:01.006Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:59:19.933Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T01:59:20.212Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:59:20.342Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:59:24.934Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T01:59:26.359Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:59:26.365Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T01:59:49.662Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T01:59:49.674Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:00:28.826Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:00:28.829Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:00.514Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:00.520Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:01:15.597Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:15.605Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:01:20.736Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:01:20.739Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:37.539Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:01:37.542Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:57.732Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:01:57.739Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:02:40.305Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:02:40.308Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:22.652Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:03:22.657Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:26.087Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:26.090Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:03:45.739Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:45.741Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:03:52.734Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:52.752Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:03:59.942Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:03:59.945Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:04:10.524Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:04:10.526Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:04:53.971Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:04:53.973Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:05:05.004Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:05:05.006Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:05:20.790Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:05:20.809Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:06:01.923Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:06:01.925Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:06:17.240Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:06:17.243Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:07:56.381Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:07:56.386Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:08:02.871Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:08:02.873Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:08:13.123Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:08:13.128Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:08:36.462Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:08:36.470Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:09:19.100Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:09:19.101Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:10:19.070Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:10:19.077Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:11:04.068Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_147` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:11:06.000Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_147` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:12:18.830Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:12:18.834Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:14:03.954Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:14:03.957Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:15:06.384Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:15:06.387Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:15:54.043Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:15:54.045Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:16:55.285Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:16:55.287Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:17:27.775Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:17:27.784Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:22:57.130Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T02:22:57.405Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:22:57.524Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:24:55.721Z [app-mizp-educa] info POST - /event - {"user_id":{"id":2,"user_id_firebase":"mi6UaciIu7fpzPZ3tqrpn9BkCYn2","name":"Moises","lastName":"Santos","nickName":"Moisas","kinship_id":1,"email":"mopri08@gmail.com","createdAt":"2023-04-13T02:11:03.000Z","updatedAt":"2023-04-13T02:11:03.000Z"},"typeEvent_id":1,"event":"Aniversário da Tia Camila","description":"Festa de aniversário da Tia Camila","date":"02/05/2023"}
+2023-04-17T02:24:59.368Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T02:26:53.090Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T02:26:55.093Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:26:55.112Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:27:32.829Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:27:32.832Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:27:34.029Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_153` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:28:13.732Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T02:28:14.015Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:28:14.156Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:29:40.841Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T02:29:42.130Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:29:42.150Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:29:43.918Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_155` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:29:50.546Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:29:50.550Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:29:52.123Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_155` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:30:13.611Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:30:13.614Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:30:15.026Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_155` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:31:23.590Z [app-mizp-educa] error POST  - Cannot add or update a child row: a foreign key constraint fails (`mizp_educa`.`event_data`, CONSTRAINT `event_data_ibfk_155` FOREIGN KEY (`child_id`) REFERENCES `child` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2023-04-17T02:31:59.989Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:31:59.998Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:32:18.356Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:32:18.360Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:32:27.153Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:32:27.156Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:32:34.100Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:32:34.108Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:33:40.464Z [app-mizp-educa] info POST - /event_data - {"user_id":2,"child_id":1,"event_id":1,"meriter":0,"demeriter":0,"point":10}
+2023-04-17T02:33:46.411Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:33:46.416Z [app-mizp-educa] info GET - /event_data/all:[object Object]} - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:34:31.233Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:40:17.785Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:41:32.038Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T02:41:32.234Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T02:41:32.328Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:42:27.325Z [app-mizp-educa] info GET - /event/:1 - ALL EVENTS
+2023-04-17T02:44:04.543Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:44:28.980Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:44:51.813Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:45:37.729Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:45:49.546Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:45:56.053Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:46:36.624Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:47:11.653Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:47:44.890Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:47:50.646Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T02:49:24.554Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:49:29.609Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:49:48.528Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:51:00.328Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:51:05.298Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:51:56.082Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:52:23.899Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:52:40.415Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T02:53:31.779Z [app-mizp-educa] info POST - /release - {"user_id":2,"type":"demerito","child_id":1,"event_id":1,"date":"16/04/2023","description":"Chorou sem motivo","point":"2","idEventData":8}
+2023-04-17T02:53:34.724Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:53:39.168Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T02:54:04.016Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T02:54:45.681Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:55:50.051Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:56:10.125Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:56:39.907Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:56:50.007Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:03.404Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:08.999Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:12.536Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:15.415Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:28.238Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:57:49.588Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:58:02.597Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:58:19.925Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:58:25.345Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:58:52.072Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:58:58.132Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:59:15.099Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:59:20.598Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:59:23.381Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T02:59:26.115Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:00:28.018Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:00:47.197Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:01:16.013Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:01:41.849Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:01:47.291Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:01:54.461Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:02:20.894Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:02:43.280Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:02:46.977Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:02:54.971Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:03:10.605Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:03:13.945Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:03:22.865Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:04:53.811Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:04:58.867Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:05:51.404Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:07:38.606Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:09:02.748Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T03:09:02.896Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:09:02.972Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:09:07.477Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:09:09.118Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:09:42.566Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T03:09:42.702Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:09:42.779Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:09:45.115Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:09:47.417Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:11:52.203Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T03:11:52.360Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:11:52.443Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:11:54.730Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:11:56.023Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:12:31.698Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:13:46.222Z [app-mizp-educa] info POST - /release - {"user_id":2,"type":"merito","child_id":1,"event_id":1,"date":"16/04/2023","description":"Ajudou o papai a arrumar o quarto","point":"2","idEventData":8}
+2023-04-17T03:13:48.897Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:14:55.877Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:15:35.585Z [app-mizp-educa] info POST - /release - {"user_id":2,"type":"demerito","child_id":1,"event_id":1,"date":"undefined/undefined/","description":"Brigou com a irma","point":"2","idEventData":8}
+2023-04-17T03:15:38.327Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:16:48.499Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:17:22.975Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:17:36.448Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:17:54.144Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:19:31.617Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:19:58.189Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:20:27.956Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:20:48.436Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:21:52.243Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:22:30.263Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:22:44.074Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:23:11.933Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:24:12.793Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:24:49.784Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:24:51.254Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:24:51.315Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:25:20.869Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:25:23.089Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:25:55.727Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:09.348Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:13.410Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:28.155Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:26:28.202Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:31.376Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:26:31.445Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:47.418Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:26:47.485Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:54.186Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:26:54.261Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:26:55.534Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:26:55.598Z [app-mizp-educa] info GET - /release/user/:2 - ALL RELEASES BY ID
+2023-04-17T03:28:15.472Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:28:15.474Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:28:24.410Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:28:24.412Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:28:39.360Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:28:39.365Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:30:40.567Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:30:40.569Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:31:05.149Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:31:17.562Z [app-mizp-educa] info PATCH - /child - {"id":4,"user_id":2,"name":"Isadora","lastName":"Pain","nickName":"Dodora","gender_id":2,"birthday":"2017/08/30"}
+2023-04-17T03:31:55.818Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:31:55.824Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:32:12.796Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:32:12.798Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:33:36.439Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:33:36.441Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:35:14.301Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:35:14.304Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:36:25.915Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:36:25.918Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:36:45.072Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:36:45.082Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:36:54.806Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:36:54.813Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:36:58.844Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:36:58.850Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:37:01.902Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:37:01.914Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:37:04.968Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:37:04.977Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:37:44.683Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:37:44.685Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:10.178Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:38:10.180Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:29.431Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:29.433Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:38:35.781Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:35.784Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:38:43.328Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:38:43.330Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:52.631Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:38:52.637Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:59.720Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:38:59.724Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:02.870Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:02.872Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:39:12.749Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:39:12.759Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:30.742Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:30.749Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:39:43.225Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:43.236Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:39:47.930Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:47.936Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:39:52.777Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:39:52.780Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:40:21.536Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:40:21.547Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:40:28.583Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:40:28.587Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:40:43.005Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:40:43.008Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:40:55.780Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:40:55.782Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:02.456Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:02.463Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:12.599Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:12.601Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:18.842Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:18.847Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:22.940Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:22.942Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:35.480Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:35.482Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:42.778Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:42.780Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:55.695Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:41:55.697Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:57.693Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:41:57.695Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:42:09.185Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:42:09.187Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:42:35.198Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:42:35.199Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:42:48.416Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:42:48.418Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:42:53.005Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:42:53.006Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:42:57.953Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:42:57.955Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:43:12.643Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:43:12.646Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:43:21.046Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:43:21.049Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:44:00.498Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:44:00.500Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:44:11.058Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:44:11.061Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:44:16.198Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:44:16.200Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:45:04.350Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:45:04.352Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:45:47.853Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:45:47.858Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:45:58.651Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:45:58.653Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:46:16.155Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:46:16.161Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:46:25.774Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:46:25.780Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:46:41.748Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:46:41.750Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:47:06.838Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:47:06.840Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:47:23.744Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:47:23.746Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:47:30.160Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:47:30.165Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:47:35.187Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:47:35.196Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:49:41.082Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T03:49:41.179Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:49:41.183Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:50:37.264Z [app-mizp-educa] info GET - /user/email/user_email?email=mopri08@gmail.com
+2023-04-17T03:50:37.443Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:50:37.524Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:51:47.988Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:51:47.990Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:51:59.034Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:51:59.038Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:53:41.841Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:53:41.843Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:53:55.055Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:53:55.057Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:54:04.740Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:54:30.065Z [app-mizp-educa] info POST - /release - {"user_id":2,"type":"demerito","child_id":1,"event_id":1,"date":"undefined/undefined/","description":"Teste","point":"4","idEventData":8}
+2023-04-17T03:54:32.632Z [app-mizp-educa] info GET - /event_data/all:2 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:54:38.526Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:54:38.528Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:55:25.270Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:55:25.272Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:56:56.224Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:56:56.231Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:05.548Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:05.550Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:18.259Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:18.264Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:22.262Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:22.268Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:27.163Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:27.168Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:30.787Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:30.789Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:43.134Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:43.136Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:49.397Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:49.398Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:54.063Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:57:54.065Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:57.255Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:57:57.261Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:58:03.628Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:58:03.635Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:58:07.556Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:58:07.569Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID
+2023-04-17T03:58:18.095Z [app-mizp-educa] info GET - /child/:2 - ALL CHILDREN
+2023-04-17T03:58:18.097Z [app-mizp-educa] info GET - /event_data/all:1 - ALL EVENTS DATA BY USER_ID

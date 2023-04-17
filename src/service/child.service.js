@@ -1,11 +1,16 @@
 import ChildRepository from "../repository/child.repository.js"
 
 async function createChild(child) {
-  child.birthday.split("/")[2] + "/" + [1] + "/" + [0]
+  if (!child.nickName) {
+    child.nickName = child.name
+  }
   return await ChildRepository.createChild(child)
 }
 
 async function updateChild(child) {
+  if (!child.nickName) {
+    child.nickName = child.name
+  }
   return await ChildRepository.updateChild(child)
 }
 

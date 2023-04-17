@@ -3,6 +3,11 @@ import EventDataService from "../service/event_data.service.js"
 async function createEventData(req, res, next) {
   try {
     const data = req.body
+    if (!data.child_id) {
+      return res
+        .status(400)
+        .json({ msg: "Selecione uma criança para associar ao evento!" })
+    }
     res.send(await EventDataService.createEventData(data))
     logger.info(`POST - /event_data - ${JSON.stringify(data)}`)
   } catch (error) {

@@ -3,6 +3,22 @@ import EventService from "../service/event.service.js"
 async function createEvent(req, res, next) {
   try {
     const event = req.body
+    if (!event.typeEvent_id) {
+      return res
+        .status(400)
+        .json({ msg: "O tipo de evento deve ser preenchido!" })
+    }
+    if (!event.event) {
+      return res.status(400).json({ msg: "O evento deve ser preenchido!" })
+    }
+    if (!event.description) {
+      return res
+        .status(400)
+        .json({ msg: "Informe uma breve descrição do evento!" })
+    }
+    if (!event.date) {
+      return res.status(400).json({ msg: "Informe a data do evento!" })
+    }
     res.send(await EventService.createEvent(event))
     logger.info(`POST - /event - ${JSON.stringify(event)}`)
   } catch (error) {
